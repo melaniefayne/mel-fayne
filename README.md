@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Melanie Fayne
 
-<!--
-**mel-fayne/mel-fayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### CS Student @ UoN | Frontend Dev @ Sisitech Limited | UI/UX Lead @ GDSC UoN
 
-Here are some ideas to get you started:
+- 🔭 I’m good at: **Flutter | Angular | Django | Figma | Adobe**
+- 🌱 I’m currently learning: **React**
+- 👯 I’m looking to collaborate on: **Flutter & UI/UX Projects**
+- 🌍 I'm based in: **Nairobi, Kenya**
+- 📫 How to reach me: **melaniefayne33@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mel-fayne&show_icons=true&count_private=true&hide=stars,issues)
+<!-- 
+<img width="700px" src="https://wakatime.com/share/@2cb2926c-f61f-4a2d-b99d-1899a4743fb8/d3f39d84-755c-4bc4-81bd-c5c524fa1ff9.svg">
+
+   -->
