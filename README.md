@@ -3,8 +3,8 @@
 #### CS Student @ UoN | Frontend Dev @ Sisitech Limited | UI/UX Lead @ GDSC UoN
 
 - 🔭 I’m good at: **Flutter | Angular | Django | Figma | Adobe**
-- 🌱 I’m currently learning: **React**
-- 👯 I’m looking to collaborate on: **Flutter & UI/UX Projects**
+- 🌱 I’m currently learning: **React | Data Science**
+- 👯 I’m looking to collaborate on: **Data Science Projects**
 - 🌍 I'm based in: **Nairobi, Kenya**
 - 📫 How to reach me: **melaniefayne33@gmail.com**
 
