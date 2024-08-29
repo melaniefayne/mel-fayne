@@ -1,12 +1,7 @@
 ### Hi there 👋 I'm Melanie Fayne
 
-#### CS Student @ UoN | Frontend Dev @ Sisitech Limited | UI/UX Lead @ GDSC UoN
-
-- 🔭 I’m good at: **Flutter | Angular | Django | Figma | Adobe**
-- 🌱 I’m currently learning: **React | Data Science**
-- 👯 I’m looking to collaborate on: **Data Science Projects**
-- 🌍 I'm based in: **Nairobi, Kenya**
-- 📫 How to reach me: **melaniefayne33@gmail.com**
+- 🌍 **Nairobi, Kenya**
+- 📫 **melaniefayne33@gmail.com**
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mel-fayne&show_icons=true&count_private=true&hide=stars,issues)
