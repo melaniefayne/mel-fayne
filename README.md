@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Melanie Fayne
+### Hi 👋
 
 - 🌍 **Nairobi, Kenya**
 - 📫 **melaniefayne33@gmail.com**
